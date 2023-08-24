@@ -469,7 +469,7 @@ line-height: 21.6px; /* 120% */
     justify-content: space-between;
     position: relative;
 }
-ul{
+.footer ul{
     list-style-type: none;
     margin-top: 85px;
 }
